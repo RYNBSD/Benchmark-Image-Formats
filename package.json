@@ -1,0 +1,16 @@
+{
+  "name": "images-formats",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "sharp": "^0.33.2"
+  },
+  "devDependencies": {
+    "@types/sharp": "^0.32.0"
+  }
+}
